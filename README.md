@@ -10,6 +10,13 @@
 
 5. pyinstaller 5.0.dev0 (perhaps 4.9 could work)
 
+## How to install/download
+Click the green code button
+
+![image](https://user-images.githubusercontent.com/91117808/157774944-24d8d975-3303-4eec-826b-ea97925f67b5.png)
+
+And then click on download zip, after that extract the zip, the files should be there.
+
 ## How to run
 Once you have python and each requirement setup double clicking the file on windows would be enough, however if it doesn't work try use the command prompt/terminal. Open a command prompt/terminal in the same directory and type in `python SimTeacc.pyw` assuming that you have put python in your path and you don't 2 versions of python that might get in the way. The same goes for linux except make sure to use `python3` instead of `python`. Some unix systems comes with `python3` preinstalled, however the version is often lower than required e.g. 3.6 therefore it's best to install a later version e.g. 3.9 and then run by using `python3.9`.
 
