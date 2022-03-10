@@ -6,7 +6,7 @@
 3. matplotlib 3.5.1 (older versions might not work)
 4. tk (there's only 1 version)
 
-Optional
+**Optional**
 
 5. pyinstaller 5.0.dev0 (perhaps 4.9 could work)
 
